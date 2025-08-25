@@ -71,9 +71,24 @@ intext: This operator allows you to search for pages that contain specific text 
 <img width="1662" height="952" alt="image" src="https://github.com/user-attachments/assets/323169fa-aaf8-4dbe-b6f1-91973296a33e" />
 
 # Output 4:
+intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
+
+<img width="1709" height="951" alt="image" src="https://github.com/user-attachments/assets/208986f5-8996-4683-be5b-40df488ac5ce" />
+
+# Output 5:
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
+<img width="1712" height="951" alt="image" src="https://github.com/user-attachments/assets/f896abd1-17e1-4afe-b5cc-937051a2e2ab" />
 
+# Output 5:
+link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
+
+<img width="1710" height="954" alt="image" src="https://github.com/user-attachments/assets/4936c055-393a-4e09-802a-7c9e71650caf" />
+
+# Output 6:
+cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
+
+<img width="1720" height="949" alt="image" src="https://github.com/user-attachments/assets/7ff69836-3f96-4c79-b573-a6698386fee2" />
 
 
 # DNS Enumeration
