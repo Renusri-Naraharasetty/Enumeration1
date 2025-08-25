@@ -55,7 +55,25 @@ Open terminal and try execute some kali linux commands
 
 ```
 
-# Output:
+# Output 1:
+site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
+
+<img width="1709" height="951" alt="image" src="https://github.com/user-attachments/assets/f07a3a32-7b99-43f9-80ba-1f3acc98dcc2" />
+
+# Output 2:
+filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
+
+<img width="1708" height="954" alt="image" src="https://github.com/user-attachments/assets/8fe6a9d0-5e16-4642-b081-d17fbd6ebd68" />
+
+# Output 3:
+intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
+
+<img width="1662" height="952" alt="image" src="https://github.com/user-attachments/assets/323169fa-aaf8-4dbe-b6f1-91973296a33e" />
+
+# Output 4:
+inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
+
+
 
 
 # DNS Enumeration
