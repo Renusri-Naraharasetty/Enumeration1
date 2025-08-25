@@ -120,6 +120,9 @@ cache: This operator allows you to view the cached version of a page. For exampl
 
 ## OUTPUT:
 
+<img width="942" height="489" alt="image" src="https://github.com/user-attachments/assets/dbf2b5c5-bf08-4a4e-8ef7-a020ca76bcd6" />
+
+
 ## Architecture Diagram 
 ```
 +-------------------+        +------------------+       +------------------+
@@ -158,6 +161,9 @@ dnsenum example.com
 ```
 
 ## Output:
+<img width="952" height="845" alt="image" src="https://github.com/user-attachments/assets/8b953d46-9213-477d-8e86-462e9336c6f3" />
+
+<img width="948" height="720" alt="image" src="https://github.com/user-attachments/assets/ed14b8d2-2b94-4880-afbe-2c2d62fdc97f" />
 
 
 
@@ -170,7 +176,9 @@ dnsenum example.com
 smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 ```
   
- ## Output
+ ## Output:
+ <img width="944" height="301" alt="image" src="https://github.com/user-attachments/assets/d2ff93f8-bf06-4080-8bfe-762f4a8a1c1b" />
+
   
 
 
@@ -184,8 +192,7 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 nmap -p 25 --script smtp-enum-users.nse <target-ip>
 ```
 ## OUTPUT:
-
-
+<img width="944" height="84" alt="image" src="https://github.com/user-attachments/assets/977d4801-578c-4785-bec7-3c405165cccf" />
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
